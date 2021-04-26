@@ -39,6 +39,8 @@ We learned a lot about how to use GPT-3 as well as what can or cannot be done. H
 Community Feature. We'd like to use Discourse forum boards to enable people to discuss features as well as talk about materials that can be found on the website! We also hope to launch an actual beta version so more people can actually use this! We foresee a lot of potential for this. IOS & Android App Version
 
 ## Try It OUT!
-https://www.youtube.com/watch?v=sR23-Sf2pS0
+Youtube Link[https://www.youtube.com/watch?v=sR23-Sf2pS0]
 <br />
-https://vershio.vercel.app/
+Live App[https://vershio.vercel.app/]
+<br />
+Google Slide Show[https://docs.google.com/presentation/d/18DEK0GJ4rxFRK11bfhFJPVSuTSlvmesK91Uopj0mBXU/edit?usp=sharing]
